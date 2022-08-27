@@ -1,0 +1,1 @@
+This is a Calcite plugin which can implement and simplify the SQL query on CSV, Kafka, HBase etc.
